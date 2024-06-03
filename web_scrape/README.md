@@ -14,7 +14,7 @@ Sample project demonstrating web scrapping proficiency.
 </br> 
 
 ## Technical Details
-Data prep was completed using Python in JupyterLab. <br/>
+Data collection was completed using Python in JupyterLab. <br/>
 
 
 | Tool / Library    | Version |
