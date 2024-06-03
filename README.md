@@ -7,9 +7,9 @@ This repository contains work samples for upload to my Upwork portfolio. This re
 
 ## Contents
 
-| Folder                                 | Description                                                                           |
-| :------------------------------------- | :------------------------------------------------------------------------------------ |
-| web_scrape                             | Web Scrape example using the bookstore data on https://toscrape.com/.                 |
-| api                                    | API example using crude oil import data from U.S. Energy Information Administration   |
+| Folder                                 | Description                                                                                                                             |
+| :------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| web_scrape                             | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                   |
+| api                                    | API example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php)   |
 
 </br> 
