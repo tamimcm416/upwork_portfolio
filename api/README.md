@@ -30,7 +30,7 @@ Data collection was completed using Python in JupyterLab. <br/>
 | Name                                       | Description                                                                    |
 | :----------------------------------------- | :----------------------------------------------------------------------------- |
 | api.ipynb                                  | Notebook containing code to retrieve data from the api                         |
-| crude_oil_imports.xlsx                     | Excel file containging the output of web_scrape.ipynb                          |
+| crude_oil_imports.xlsx                     | Excel file containging the output of api.ipynb                                 |
 
 
 </br>
