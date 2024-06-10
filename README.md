@@ -1,7 +1,7 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/107127279/233161463-b4e5627d-1258-4050-80d2-d83a2abd50e7.png">
 
 # Upwork Portfolio
-This repository contains work samples for my Upwork portfolio.
+This repository contains work samples for Upwork.
 
 </br> 
 
