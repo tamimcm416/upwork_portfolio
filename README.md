@@ -7,9 +7,10 @@ This repository contains work samples for Upwork.
 
 ## Contents
 
-| Folder                                 | Description                                                                                                                             |
-| :------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| web_scrape                             | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                   |
-| api                                    | API example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php)   |
+| Folder            | Description                                                                                                                                                                      |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| api               | API example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php)                                            |
+| read_xml          | Bulk XML processing example using US Congressional data from the [ProPublica Data Store](https://www.propublica.org/datastore/dataset/congressional-data-bulk-legislation-bills) |
+| web_scrape        | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                                                            |
 
 </br> 
