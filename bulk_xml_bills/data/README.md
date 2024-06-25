@@ -2,7 +2,7 @@
 
 | Name                           | Description                                                                     |
 | :----------------------------- | :------------------------------------------------------------------------------ |
-| actions.csv                    | CSV export of actions data from US Congressional bills dataset                  |                        
+| actions.csv                    | CSV export of actions data from US Congressional bills dataset                  |
 | bills.csv                      | CSV export of bills data from US Congressional bills dataset                    |
 | committees.csv                 | CSV export of committees data from US Congressional bills dataset               |
 | cosponsors.csv                 | CSV export of cosponsors data from US Congressional bills dataset               |
