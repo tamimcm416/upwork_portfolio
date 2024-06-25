@@ -7,10 +7,12 @@ This repository contains work samples for Upwork.
 
 ## Contents
 
-| Folder            | Description                                                                                                                                                                      |
-| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| api_oil_imports   | API example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php).                                           |
-| bulk_xml_bills    | Bulk XML processing example using US Congressional data from the [ProPublica Data Store](https://www.propublica.org/datastore/dataset/congressional-data-bulk-legislation-bills).|
-| web_scrape_books  | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                                                            |
+| Folder               | Description                                                                                                                                                                      |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| api_oil_imports      | API example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php).                                           |
+| bulk_xml_bills       | Bulk XML processing example using US Congressional data from the [ProPublica Data Store](https://www.propublica.org/datastore/dataset/congressional-data-bulk-legislation-bills).|
+| tableau_sql_library  | Tableau example using [Public Library Survey](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey) data loaded into SQL Server.                     |
+| web_scrape_books     | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                                                            |
+
 
 </br> 
