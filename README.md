@@ -13,6 +13,7 @@ This repository contains work samples for Upwork.
 | bulk_xml_bills       | Bulk XML processing example using US Congressional data from the [ProPublica Data Store](https://www.propublica.org/datastore/dataset/congressional-data-bulk-legislation-bills).|
 | tableau_sql_library  | Tableau example using [Public Library Survey](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey) data loaded into SQL Server.                     |
 | web_scrape_books     | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                                                            |
+| excel_la_crime       | Excel pivot charts and mapping example using LA Crime data from [Data.Gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).                                    |
 
 
 </br> 
