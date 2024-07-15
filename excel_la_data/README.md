@@ -26,7 +26,9 @@ All project work was completed in Excel. <br/>
 
 | Name                                       | Description                                                                    |
 | :----------------------------------------- | :----------------------------------------------------------------------------- |
+| resources                                  | Folder containing supporting documentation for the LA crime dataset            |
 | LA Crime Data - 2023.xlsx                  | Excel file containing data and visualziations                                  |
+
 
 
 </br>
