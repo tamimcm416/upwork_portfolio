@@ -1,7 +1,7 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/107127279/233161463-b4e5627d-1258-4050-80d2-d83a2abd50e7.png">
 
 # Data Visualization using Excel
-This project demonstrates data scrubbing, pivot charts, and mapping of geographic data using Microsoft Excel.
+This project demonstrates data visualiztion and dashboarding using Microsoft Excel.
 </br> 
 
 ## Data Sources
@@ -19,8 +19,6 @@ All project work was completed in Excel. <br/>
 | Tool / Library                    | Version |
 | :-------------------------------  | :------ |
 | Microsoft Excel                   | 2024.1  |
-| Microosft Power Map for Excel     | n/a     |
-| Microsoft Power Pivot for Excel   | n/a     |
 
 </br> 
 
