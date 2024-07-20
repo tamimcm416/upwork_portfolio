@@ -7,8 +7,9 @@ This project demonstrates data collection via API and data visualization via Exc
 
 ## Data Sources
 
-| Source                                   | Description            | Link                                                                                          |
-| :--------------------------------------- | :--------------------- | :---------------------------------------------------------------------------------------- |  | U.S. Energy Information Administration  | Crude Oil Imports      | [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php)   |
+| Source                                   | Description            | Link                                                                                      |
+| :--------------------------------------- | :--------------------- | :---------------------------------------------------------------------------------------- | 
+| U.S. Energy Information Administration   | Crude Oil Imports      | [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php)  |
 
 </br> 
 
