@@ -9,11 +9,9 @@ This repository contains work samples for Upwork.
 
 | Folder               | Description                                                                                                                                                                      |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| api_oil_imports      | API example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php).                                           |
-| bulk_xml_bills       | Bulk XML processing example using US Congressional data from the [ProPublica Data Store](https://www.propublica.org/datastore/dataset/congressional-data-bulk-legislation-bills).|
-| tableau_sql_library  | Tableau example using [Public Library Survey](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey) data loaded into SQL Server.                     |
-| web_scrape_books     | Web Scrape example using the bookstore data on https://toscrape.com/.                                                                                                            |
-| excel_la_crime       | Excel pivot charts and mapping example using LA Crime data from [Data.Gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).                                    |
-
+| crude_oil_imports      | API and Excel Dashboard example using crude oil import data from [U.S. Energy Information Administration](https://www.eia.gov/opendata/documentation.php).                                           |
+| la_crime_data       | Excel pivot charts and mapping example using LA Crime data from [Data.Gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).                                    |
+| public_library  | Tableau example using [Public Library Survey](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey) data loaded into SQL Server.                     |
+| yelp_milwaukee  | API example collecting takeout restaurant data for Milwaukee from [Yelp](https://www.yelp.com/).                     |
 
 </br> 
